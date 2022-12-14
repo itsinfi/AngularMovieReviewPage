@@ -1,0 +1,51 @@
+
+.title {
+    margin-left: 30px;
+    height: 50px;
+    width: fit-content;
+}
+
+/*.titlecontainer {
+    height: 140%;
+}*/
+
+.toolbar {
+    align-content: space-between;
+    height: 110%;
+}
+
+.space {
+    flex: 1 1 auto;
+}
+
+.searchbarinputdiv {
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    flex: left;
+}
+
+.search-icon {
+    color: white;
+}
+
+.searchbarinput {
+    width: 300px;
+
+}
+
+.righttoolbaritems {
+    /*margin-right: 0%;
+    float: right;*/
+    /*display: flex;*/
+    margin-right: 10px;
+}
+
+/*.searchbar {
+    display: flex;
+    flex-direction: row;
+    flex: left;
+}*/
+
+
+
